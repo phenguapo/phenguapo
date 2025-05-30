@@ -1,23 +1,54 @@
-# Hi there! 👋 I'm Phenguapo (aka Giorgos)
-## About Me
-I'm a college student diving headfirst into the world of programming. Currently, my main focus is JavaScript (through TheOdinProject), but I'm also training other languages like Python, C++, C. Balancing my programming pursuits, I'm a multifaceted individual with a range of hobbies that include photography, music creation, 3D art, and gaming.
+# 👋 Hi there! I'm Phenguapo (aka Giorgos)
 
-### What I'm Up To
-At the moment, I'm working diligently on expanding my portfolio by crafting various projects. To bring my ideas to life, I start by sketching rough visualizations of how I envision each project, jotting down notes alongside them. As a self-professed perfectionist, I'm driven by the pursuit of achieving the absolute best outcome for every endeavor I undertake, while also maintaining a healthy relationship with the project and not letting my perfectionism keep me back.
+## 🧑‍💻 About Me
+I'm a Computer Science student at **Hellenic Open University**, aiming to pursue a postgraduate degree in Cyber Security after graduation. I'm currently sharpening my skills through hands-on development and formal study, combining academic foundations with real-world engineering challenges.
 
-### Tech Toolbox
-- 💻Languages: HTML, CSS, JavaScript, Python, C++, C
-- 📸Hobbies: Photography, Music Production, 3D Art, Gaming
-- 🧠General Knowledge: Multiple Linux distros (Ubuntu, Kali, Arch), MacOS, Windows, VMs
-- 🚀Future Goals: Get better at every language I currently know while also learning some more, Publish more projects with greater impact, Land a job
+By day, I work as a **Full-Stack Web Developer at Synergic Software**, where I architect and implement scalable e-commerce solutions (such as modules/plugins and full-on e-shops) with **Up-To-Date** technologies. By night, I continue to push my boundaries—learning, experimenting, and building.
 
-## Get in Touch
-If you have any inquiries or collaboration proposals, feel free to reach out through:
+I'm a perfectionist, but a practical one: I value excellence over obsession, and clarity over clutter. My process always begins with rough sketches and notes to envision functionality before touching a single line of code.
 
-1. [Github](https://github.com/phenguapo)
-2. [LinkedIn](https://gr.linkedin.com/in/giorgos-damigos-503b35218)
-3. Email: gdamigos@proton.me
+## ⚙️ What I'm Working On
+- Building and optimizing full-stack applications with **React**, **Three.js**, and **Node.js**
+- Prototyping interactive front-ends and performance-driven back-ends
+- Expanding my knowledge in **OOP**, **algorithms**, and advanced Python
+- Preparing a strong portfolio and academic track record for **postgrad studies**
+- Developing tools and workflows to automate and scale creative ideas
+- Expanding my professional scope and deepening my technical and collaborative capabilities
+
+## 🧰 Tech Toolbox
+### 💻 Programming Languages
+JavaScript, Python, C++, C, PHP, Java, C#, SQL
+### 🎨 Front-End Development
+React, Angular, Three.js, TypeScript, Sass, Tailwind, Bootstrap, GSAP
+### 🛠 Back-End Development
+Node.js, Laravel, Java (Spring), PHP, Python
+### 🗄️ Databases
+PostgreSQL, MySQL, MariaDB, MongoDB
+### 🛒 CMS & eCommerce Platforms
+WordPress with WooCommerce, PrestaShop, Shopify, Drupal
+### 🧪 Tools & Other Skills
+Git, XML Generation, Object-Oriented Programming (OOP), Multithreading, Decorators, API Integration, Version Control
 
 
-**© [2023] Phenguapo. All rights reserved.
-Please note that the content and projects shared on this profile are for educational and personal development purposes. I do not derive any monetary profit from this GitHub profile or the licensed content within. Any code, resources, or materials utilized and licensed within this profile are for non-commercial use, aimed at learning, sharing knowledge, and fostering collaboration within the developer community.**
+## 📚 Education
+- 🎓 **Computer Science**, Hellenic Open University, Patra (2024 – ongoing)
+- 💻 **Web Development**, IEK Delta 360, Athens (2022 – 2024) 
+- ⚙️ **Digital Industry Technologies**, National and Kapodistrian University of Athens (2020 – 2022)
+
+## 📸 Hobbies & Side Interests
+Outside of code, I express myself through:
+- 🎧 Music Production
+- 🎮 Gaming & Game Dev Logic
+- 🖼️ 3D Art & Modeling
+- 📷 Photography
+- 🔌 IoT Projects, Embedded Experiments, Scripting and Homelabbing
+
+## 🌍 Find Me Here
+1. [GitHub](https://github.com/phenguapo)
+2. [LinkedIn](https://www.linkedin.com/in/giorgos-damigos-503b35218)
+3. 📧 **Email**: [gdamigos@proton.me](mailto:gdamigos@proton.me)
+
+---
+
+**© [2025] Giorgos Damigos (Phenguapo). All rights reserved.**  
+All projects are for educational and personal development. I do not monetize this profile or its contents. Shared code and media are provided for non-commercial use to foster knowledge and collaboration in the dev community.
