@@ -84,8 +84,9 @@ Outside of code, I express myself through:
 
 ## 🌍 Find Me Here
 1. [GitHub](https://github.com/phenguapo)
-2. [LinkedIn](https://www.linkedin.com/in/giorgos-damigos-503b35218)
-3. [gdamigos@proton.me](mailto:gdamigos@proton.me)
+2. [Website](https://gdamigos.vercel.app)
+3. [LinkedIn](https://www.linkedin.com/in/giorgos-damigos-503b35218)
+4. [gdamigos@proton.me](mailto:gdamigos@proton.me)
 
 <a href="https://app.daily.dev/phenguapo"><img src="https://api.daily.dev/devcards/v2/0urGcrPJNoljlNsWGfmnJ.png?r=krh" width="356" alt="Giorgos Damigos's Dev Card"/></a>
 
